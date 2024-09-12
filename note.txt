@@ -1,0 +1,7 @@
+//DTO co tac dung gi : 
+-Khi ta gui tu front-end len back-end thi back-end se xu li phan request va khi DTO duoc khai bao la kieu du lieu cho 1 bien thi bien do se nhat tu request nhung thuoc tinh co trong nhung thuoc tinh ma DTO da khai bao'
+
+
+//Pipes " :
+
+
